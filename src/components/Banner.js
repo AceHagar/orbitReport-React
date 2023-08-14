@@ -1,4 +1,4 @@
-import styles from "./styling.css"
+//import styles from "./styling.css"
 
 function Banner() {
     return (
