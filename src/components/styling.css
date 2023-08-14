@@ -1,4 +1,4 @@
-h1,
+header,
 p {
   font-family: Montserrat, Arial, Helvetica, sans-serif;
   text-align: center;
@@ -7,7 +7,7 @@ p {
 button {
   background-color: #5c94ce;
   border-radius: 15px;
-  color: white;
+  color: rgb(212, 204, 204);
   padding: 15px 32px;
   margin: 10px;
   text-align: center;
@@ -51,7 +51,7 @@ td {
   padding: 8px;
 }
 
-h1 {
+header {
   padding: 50px;
   text-align: center;
   background: #5c94ce;
